@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+}
+.object{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.wid-25{
+    width: 25%;
+}
+.wid-50{
+    width: 50%;
+}
+.wid-25{
+    width: 40%;
+}
+.wid-33{
+    width:33%;
+}
+.wid-75{
+    width: 75%;
+
+}
+.comman-btn{
+    height: 40px;
+    border: 1px solid #ddd;
+    min-width: 50px;
+    text-align: center;
+    background-color: antiquewhite;
+    color: rgb(80, 77, 77);
+    margin-top: 30px;
+    font-size: 20px;
+}
+.wid-20{
+    width: 33%;
+}
