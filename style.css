@@ -1,0 +1,221 @@
+.object{
+    display: flex;
+    margin-top: 30px;
+}
+.logo h1{
+    margin-left:100px;
+
+}
+.top{
+    min-height: 30px;
+}
+.logo h1 span:first-of-type{
+    padding: 5px;
+    border: 1px solid #ddd;
+    color: #d19c97;
+    margin-right: 5px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.search-product input{
+    font-size: 20px;
+    border: 2px solid rgb(199, 185, 185);
+    border-radius: 2px;
+    width: 70%;
+    margin-top: 25px; 
+    height: 40px; 
+}
+.search-product button{
+    height: 40px;
+    font-size: 20px;
+    border:2px solid grey;
+    color:#d19c97
+}
+.anand {
+    height: 60px;
+    background-color: #d19c97;
+    margin-left: 30px;
+}
+.anand h2{
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-weight: 500;
+}
+.anand span{
+    float: right;
+    padding: 28px;
+}
+.categori-list ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.categori-list ul li{
+    border-bottom: 1px solid #ddd;
+    padding: 10px 40px;
+}
+.categori-list ul li a{
+    color: #333;
+    text-decoration: none;
+}
+
+.full-wraper{
+    border-top: 1px solid #6a6767;
+}
+.shop-menu{
+    display: flex;
+    float: right;
+
+}
+.left-menu-list{
+    display: flex;
+    float: center;
+    
+}
+.rightside li{
+    display: flex;
+    float: right;
+
+}
+.shop-menu ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0%;
+    display: flex;
+
+    
+}
+.shop-menu ul li{
+    display: flex;
+    font-size: 25px;
+    padding: 20px;
+    min-width:75px;
+    margin-top: 10px;
+}
+.shop-menu ul li a{
+    color: #333;
+    text-decoration: none;
+
+}
+.shop-menu ul li a:hover{
+    color:red
+}
+.banner{
+    position: relative;
+}
+.banner img{
+  width: 80%;
+  height: 600%;
+  object-fit: cover;
+  margin-left:400px;
+  opacity:0.89; 
+}
+.banner-text{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+}    
+.banner-text h3{
+    text-transform:uppercase ;
+    margin: 0px;
+    font-size: 25px;
+    color: rgb(37, 26, 12);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.banner-text h1{
+    text-transform: uppercase;
+    margin: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(21, 17, 17);
+}
+.banner-text button{
+    margin: 10px;
+    width: 100px;
+    height:40px;
+    border: 1px solid blue;
+    font-size: 20px;
+}
+.banner-text button:hover{
+    color: red;
+}
+.icon-text{
+ height: 0px;
+ margin-left:100px;
+ padding: 30px;
+ margin-bottom: 50px;
+ margin-top: 30px;
+ display: flex;
+}
+.icon-text i{
+    font-size: 30px;
+    color: #d19c97;
+    padding: 13px;
+    
+    
+}
+.icon-text span{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hori{
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+.hori.icon-text{
+    padding: 30px;
+    display: flex;
+}
+.categori-dress{
+    display:flex;
+    height:150px;
+    float: left;
+
+}
+.dress{
+    display: flex;
+    height: 70px;
+    margin-top: 80px;
+    float: left;
+   
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
